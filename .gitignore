@@ -1,3 +1,4 @@
 **/logs
 __pycache__/
 LSTM_models/
+RNN_models/
