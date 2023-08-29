@@ -1,0 +1,2 @@
+Rainfall,Depth_to_Groundwater,Temperature,Drainage_Volume,River_Hydrometry
+" ARIMA(2,1,1)(0,0,0)[52]          "," ARIMA(1,1,1)(0,0,0)[52]          "," ARIMA(4,0,1)(0,0,0)[52] intercept"," ARIMA(1,1,0)(0,0,0)[52]          "," ARIMA(0,1,0)(0,0,0)[52]          "
